@@ -1,0 +1,7 @@
+1.gép
+2000 feladat küldése, fogadása = 2sec/feladat + 2sec/visszaküldés = 4sec * 2000 = 8000 sec
+Végrehajtás = 1000 * 10sec = 10.000 sec
+
+2.gép
+2000 feladat fogadása, visszaküldése = 2sec/feladat + 2sec/visszaküldés = 4sec * 2000 = 8000 sec
+Végrehajtás = 2000 * 5sec = 10.000 sec
